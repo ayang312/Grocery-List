@@ -1,0 +1,28 @@
+section h2 {
+    display: inline-block;
+    background-color: #c6dbdf;
+    color: #1a201f;
+    border: 1px solid black;
+}
+
+header {
+    color: #1d37a6;
+    text-align: center;
+}
+
+#box {
+    display: inline-block;
+}
+
+.box {
+    border: 1px solid black;
+    padding: 0.5% 2%;
+    margin-right: 1em;
+}
+
+img {
+    width: 10em;
+    height: 10em;
+    padding: 2%;
+    margin: 2%;
+}
